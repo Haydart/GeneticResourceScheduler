@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit-4.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/ms_rcpsp_lib/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xchart-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
